@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 960px;
+  border: 1px solid #696969;
+}
+
+.square {
+  width: 60px;
+  height: 60px;
+}
+
+#resetButton {
+  margin-top: 10px;
+  padding: 5px;
+}
