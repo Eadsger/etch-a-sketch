@@ -21,4 +21,3 @@ The project is built using HTML, CSS, and JavaScript to create a dynamic and int
  ## Extra Credit Features
 
 Randomized RGB Value: Each interaction with a square randomizes its RGB color.
-s
